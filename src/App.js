@@ -11,7 +11,7 @@ function App() {
   </ul>
   <header>Little Lemon Restaurant</header>
   <a href="/book" role="button">Book a table</a>
-  <footer>All copyrights</footer>
+  <footer>© 2024 Little Lemon. All rights reserved.</footer>
   </nav>
   );
 }
